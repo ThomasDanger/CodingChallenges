@@ -1,3 +1,4 @@
+//Returns true if string is palindrome, false if not
 public static boolean isPalindrome(String str){
     str=str.toUpperCase();
     for(int i = 0; i<str.length()/2; i++){
