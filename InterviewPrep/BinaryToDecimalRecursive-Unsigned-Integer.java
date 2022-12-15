@@ -1,4 +1,4 @@
-//Recursive function that takes a string representation of an unsigned binary integer and returns an integer
+//Q: Write a program that converts an unsigned binary integer (represented by a string) to a decimal number using recursion
 
 public static int bin2Dec(String binary){
     if(binary.length() == 0)
